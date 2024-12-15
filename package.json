@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@statsy/statsy": "npm:@jsr/statsy__statsy@^0.1.2",
+    "path-to-regexp": "^6.2.1"
+  }
+}

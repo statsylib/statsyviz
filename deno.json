@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@statsy/statsy": "jsr:@statsy/statsy@^0.1.2",
+    "@types/paper": "npm:@types/paper@^0.12.3",
+    "paper": "npm:paper@^0.12.18",
+  }
+}

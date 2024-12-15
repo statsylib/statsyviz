@@ -1,0 +1,122 @@
+{
+    "dependent_variable_name": "cost_of_revenue",
+    "explanatory_variable_name_1": "instrument_revenue",
+    "explanatory_variable_name_2": "consumable_revenue",
+    "label_name": "label",
+    "data": [
+        {
+            "label": "Q1 2020",
+            "instrument_revenue": 4024,
+            "consumable_revenue": 8269,
+            "cost_of_revenue": 5421
+        },
+        {
+            "label": "Q2 2020",
+            "instrument_revenue": 8934,
+            "consumable_revenue": 4822,
+            "cost_of_revenue": 8225
+        },
+        {
+            "label": "Q3 2020",
+            "instrument_revenue": 7727,
+            "consumable_revenue": 8022,
+            "cost_of_revenue": 9228
+        },
+        {
+            "label": "Q4 2020",
+            "instrument_revenue": 13639,
+            "consumable_revenue": 9987,
+            "cost_of_revenue": 12550
+        },
+        {
+            "label": "Q1 2021",
+            "instrument_revenue": 14939,
+            "consumable_revenue": 10364,
+            "cost_of_revenue": 12697
+        },
+        {
+            "label": "Q2 2021",
+            "instrument_revenue": 14282,
+            "consumable_revenue": 12251,
+            "cost_of_revenue": 13222
+        },
+        {
+            "label": "Q3 2021",
+            "instrument_revenue": 15926,
+            "consumable_revenue": 14576,
+            "cost_of_revenue": 15530
+        },
+        {
+            "label": "Q4 2021",
+            "instrument_revenue": 16158,
+            "consumable_revenue": 15009,
+            "cost_of_revenue": 14909
+        },
+        {
+            "label": "Q1 2022",
+            "instrument_revenue": 15550,
+            "consumable_revenue": 12694,
+            "cost_of_revenue": 14820
+        },
+        {
+            "label": "Q2 2022",
+            "instrument_revenue": 15619,
+            "consumable_revenue": 14556,
+            "cost_of_revenue": 15499
+        },
+        {
+            "label": "Q3 2022",
+            "instrument_revenue": 11442,
+            "consumable_revenue": 16067,
+            "cost_of_revenue": 15568
+        },
+        {
+            "label": "Q4 2022",
+            "instrument_revenue": 6688,
+            "consumable_revenue": 16083,
+            "cost_of_revenue": 15045
+        },
+        {
+            "label": "Q1 2023",
+            "instrument_revenue": 20700,
+            "consumable_revenue": 13954,
+            "cost_of_revenue": 25164
+        },
+        {
+            "label": "Q2 2023",
+            "instrument_revenue": 29923,
+            "consumable_revenue": 13732,
+            "cost_of_revenue": 28432
+        },
+        {
+            "label": "Q3 2023",
+            "instrument_revenue": 34694,
+            "consumable_revenue": 16868,
+            "cost_of_revenue": 33551
+        },
+        {
+            "label": "Q4 2023",
+            "instrument_revenue": 35755,
+            "consumable_revenue": 18246,
+            "cost_of_revenue": 40421
+        },
+        {
+            "label": "Q1 2024",
+            "instrument_revenue": 19025,
+            "consumable_revenue": 15984,
+            "cost_of_revenue": 22447
+        },
+        {
+            "label": "Q2 2024",
+            "instrument_revenue": 14678,
+            "consumable_revenue": 17068,
+            "cost_of_revenue": 23083
+        },
+        {
+            "label": "Q3 2024",
+            "instrument_revenue": 16788,
+            "consumable_revenue": 18508,
+            "cost_of_revenue": 23278
+        }
+    ]
+}
